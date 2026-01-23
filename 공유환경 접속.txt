@@ -1,0 +1,8 @@
+협업 클라우드 환경 계정 
+  - 환경 주소
+    > nllncoltdcustomer-dev.outsystemsenterprise.com
+  - Id: 전달해주신 이메일
+  - Pw: global0000
+
+홈페이지 접속 가능한 계정 생성
+  - https://nllncoltdcustomer-dev.outsystemsenterprise.com/UserPage/Main?_ts=639046017265681243
